@@ -1,0 +1,16 @@
+﻿  SUDOKU_PARALLEL_OPENCL.cpp
+c:\users\mahe\desktop\pcap project\sudoku_parallel_opencl\sudoku_parallel_opencl\sudoku_parallel_opencl.cpp(169): warning C4838: conversion from 'int' to 'std::size_t' requires a narrowing conversion
+c:\users\mahe\desktop\pcap project\sudoku_parallel_opencl\sudoku_parallel_opencl\sudoku_parallel_opencl.cpp(121): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\mahe\desktop\pcap project\sudoku_parallel_opencl\sudoku_parallel_opencl\sudoku_parallel_opencl.cpp(129): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\mahe\desktop\pcap project\sudoku_parallel_opencl\sudoku_parallel_opencl\sudoku_parallel_opencl.cpp(143): warning C4996: 'clCreateCommandQueue': was declared deprecated
+  c:\program files (x86)\intel\opencl sdk\6.3\include\cl\cl.h(1428): note: see declaration of 'clCreateCommandQueue'
+  SUDOKU_PARALLEL_OPENCL.vcxproj -> C:\Users\mahe\Desktop\PCAP Project\SUDOKU_PARALLEL_OPENCL\Debug\SUDOKU_PARALLEL_OPENCL.exe
+  SUDOKU_PARALLEL_OPENCL.vcxproj -> C:\Users\mahe\Desktop\PCAP Project\SUDOKU_PARALLEL_OPENCL\Debug\SUDOKU_PARALLEL_OPENCL.pdb (Full PDB)
+c:\users\mahe\desktop\pcap project\sudoku_parallel_opencl\sudoku_parallel_opencl\sudoku_parallel_opencl.cpp(50): warning C6001: Using uninitialized memory 't_arr'.
+c:\users\mahe\desktop\pcap project\sudoku_parallel_opencl\sudoku_parallel_opencl\sudoku_parallel_opencl.cpp(274): warning C6031: Return value ignored: 'getchar'.
+c:\users\mahe\desktop\pcap project\sudoku_parallel_opencl\sudoku_parallel_opencl\sudoku_parallel_opencl.cpp(275): warning C6031: Return value ignored: 'getchar'.
+c:\users\mahe\desktop\pcap project\sudoku_parallel_opencl\sudoku_parallel_opencl\sudoku_parallel_opencl.cpp(276): warning C6031: Return value ignored: 'getchar'.
+c:\users\mahe\desktop\pcap project\sudoku_parallel_opencl\sudoku_parallel_opencl\sudoku_parallel_opencl.cpp(215): warning C6386: Buffer overrun while writing to 'CMB':  the writable size is 'sizeof(int)*posn*n' bytes, but '8' bytes might be written.
+c:\users\mahe\desktop\pcap project\sudoku_parallel_opencl\sudoku_parallel_opencl\sudoku_parallel_opencl.cpp(249): warning C6385: Reading invalid data from 'RES':  the readable size is 'sizeof(int)*posn' bytes, but '8' bytes may be read.
